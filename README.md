@@ -1,4 +1,4 @@
-# 📌 Project: Smart DSP-Based Noise Reduction & Image Enhancement System
+# DSP-Based Noise Reduction & Image Enhancement System
 ## 🚀 Overview
 >This project develops an AI-powered Digital Signal Processing (DSP) system for real-time noise reduction in audio signals and image enhancement using adaptive filtering techniques. It integrates MATLAB DSP algorithms, machine learning models, and a GUI for user interaction.
 
