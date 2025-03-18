@@ -48,9 +48,9 @@
 * bash
 * Copy
 * Edit
-* run `python3 -m pip install -r requirements.txt`
-* `git clone https://github.com/yourusername/DSP-Noise-Reduction-Image-Enhancement.git
+* `git clone https://github.com/vishnuanilkumarb/dsp-filters.git ||
 cd DSP-Noise-Reduction-Image-Enhancement`
+* run `python3 -m pip install -r requirements.txt`
 ### 🔹 Run the MATLAB GUI
 Open MATLAB and navigate to the GUI folder.
 Run the following command:
