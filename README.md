@@ -51,6 +51,7 @@
 * `git clone https://github.com/vishnuanilkumarb/dsp-filters.git ||
 cd DSP-Noise-Reduction-Image-Enhancement`
 * run `python3 -m pip install -r requirements.txt`
+* run `python3 -m main` for python.
 ### 🔹 Run the MATLAB GUI
 Open MATLAB and navigate to the GUI folder.
 Run the following command:
