@@ -6,4 +6,4 @@ scikit-learn
 joblib
 tensorflow
 gitpython
-skimage
+scikit-image
