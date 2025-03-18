@@ -7,7 +7,7 @@ from dsp.audio_processing import process_audio
 from dsp.image_processing import process_image
 from dsp.noise_classifier import train_noise_classifier, classify_noise
 
-DATASET_FOLDER = "data/fsdd"
+DATASET_FOLDER = "sample_data/audio"
 MODEL_PATH = "models/svm_noise_classifier.pkl"
 
 def main():
