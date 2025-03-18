@@ -48,7 +48,8 @@
 * bash
 * Copy
 * Edit
-`git clone https://github.com/yourusername/DSP-Noise-Reduction-Image-Enhancement.git
+* run `python3 -m pip install -r requirements.txt`
+* `git clone https://github.com/yourusername/DSP-Noise-Reduction-Image-Enhancement.git
 cd DSP-Noise-Reduction-Image-Enhancement`
 ### 🔹 Run the MATLAB GUI
 Open MATLAB and navigate to the GUI folder.
